@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Data": "Server=easyworksdirect.cblyrkv1eup5.eu-west-2.rds.amazonaws.com,1433;Initial Catalog=TazzerCleanUK;Persist Security Info=False;User ID=SA;Password=ewd&PwdTc!&;MultipleActiveResultSets=True;Connection Timeout=30;"
+  }
+}
